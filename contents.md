@@ -1,6 +1,6 @@
-# Software Tutorials
-## UA NASA Robotic Mining Competion Team
+# Embedded Systems Software Tutorials
+UA NASA Robotic Mining Competion Team
 
-## Contents
+### Contents:
 
 1. [Digital I/O](digital_io.md)
