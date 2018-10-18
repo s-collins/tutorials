@@ -3,4 +3,4 @@ UA NASA Robotic Mining Competion Team
 
 ### Contents:
 
-1. [Digital I/O](digital_io.md)
+1. [Digital I/O](digital_io/digital_io.md)

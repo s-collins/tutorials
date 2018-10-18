@@ -1,5 +1,7 @@
 # Digital I/O on Microchip's dsPIC33EP512GP504 Processor
 
+[Contents](../contents.md)
+
 ### Datasheets
 
 In order to find information about the processor you are using, you can read its
@@ -14,6 +16,8 @@ a link to the datasheet for the
 Digital signals are electrical signals that alternate between two states, which
 are often referred to as LOW and HIGH.  These states correspond to voltage
 levels.
+
+![waveform](waveform.jpg)
 
 A processor can input (or output) digital signals by writing to (or reading
 from) special function registers that are connected to the processors pins.
